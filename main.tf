@@ -3,6 +3,6 @@ provider "tfe" {
   token    = ""
 }
 resource "tfe_workspace" "dwwon_workspace" {
-  name         = "test2"
+  name         = "test5"
   organization = "dwwon"
 }
