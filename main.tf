@@ -3,6 +3,6 @@ provider "tfe" {
   token    = "ovRfQUSpDJUl7Q.atlasv1.zbtO2SGLOzoYxXdMvSzQWs7rizzWoarghLRCKymIazXXSca4Ts8EPeZzhApS1nwDZdk"
 }
 resource "tfe_workspace" "dwwon_workspace" {
-  name         = "test1"
+  name         = "test2"
   organization = "dwwon"
 }
